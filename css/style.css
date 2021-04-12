@@ -25,6 +25,9 @@ p {
 span {
     text-align: center;
 }
+h1 {
+    text-align: center;
+}
 
 /*Mobile Bildschirme */
 .col-1{
